@@ -24,7 +24,7 @@ This repository showcases a collection of beginner-friendly web development proj
   <table>
     <tr>
       <td align="center" width="300">
-        <a href="./Amazon_Homepage_Clone/index.html">
+        <a href="https://github.com/guru-bharadwaj20/Basic_WebDev_Collection/tree/main/Amazon%20Clone">
           <img src="https://raw.githubusercontent.com/guru-bharadwaj20/Basic_WebDev_Collection/main/.assets/amazon.png" width="250" height="150" alt="Amazon Clone Preview">
           <br />
           <strong>Amazon Homepage Clone</strong>
@@ -32,7 +32,7 @@ This repository showcases a collection of beginner-friendly web development proj
         <p>A pixel-perfect replica of Amazon India’s homepage using only HTML & CSS.</p>
       </td>
       <td align="center" width="300">
-        <a href="./Rock_Paper_Scissors/index.html">
+        <a href="https://github.com/guru-bharadwaj20/Basic_WebDev_Collection/tree/main/Rock%20Paper%20Scissors">
           <img src="https://raw.githubusercontent.com/guru-bharadwaj20/Basic_WebDev_Collection/main/.assets/rps.png" width="250" height="150" alt="Rock Paper Scissors Preview">
           <br />
           <strong>Rock Paper Scissors</strong>
@@ -40,7 +40,7 @@ This repository showcases a collection of beginner-friendly web development proj
         <p>A fully interactive game with score tracking, logic, and JS-based interactivity.</p>
       </td>
       <td align="center" width="300">
-        <a href="./Tic_Tac_Toe/index.html">
+        <a href="https://github.com/guru-bharadwaj20/Basic_WebDev_Collection/tree/main/Tic%20Tac%20Toe">
           <img src="https://raw.githubusercontent.com/guru-bharadwaj20/Basic_WebDev_Collection/main/.assets/ttt.png" width="250" height="150" alt="Tic Tac Toe Preview">
           <br />
           <strong>Tic Tac Toe</strong>
