@@ -47,6 +47,14 @@ This repository showcases a collection of beginner-friendly web development proj
         </a>
         <p>Classic turn-based game with win/draw logic using HTML, CSS, and JS.</p>
       </td>
+      <td align="center" width="300">
+        <a href="https://github.com/guru-bharadwaj20/Basic_WebDev_Collection/tree/main/Sudoko">
+          <img src="https://raw.githubusercontent.com/guru-bharadwaj20/Basic_WebDev_Collection/main/Sudoko/Pictures/Sample%20Puzzle.png" width="250" height="150" alt="Sudoko Preview">
+          <br />
+          <strong>Sudoko</strong>
+        </a>
+        <p>A dynamic Sudoku puzzle game with auto-generation, solving logic, and error tracking.</p>
+      </td>
     </tr>
   </table>
 </div>
@@ -64,4 +72,4 @@ This repository showcases a collection of beginner-friendly web development proj
 
 ## 📌 Disclaimer
 
-These projects were created by me for educational and portfolio purposes. Assets and design inspirations are credited to their respective platforms.
+These projects were created by me for educational and portfolio purposes. **Cloning or claiming this repository or its contents as your own is strictly prohibited.** Assets and design inspirations are credited to their respective platforms.
