@@ -4,7 +4,7 @@ This repository showcases a collection of web development projects built using f
 
 ---
 
-## 🚀 Features
+## Features
 
 -   **Introduced modern frontend development with React**, demonstrating state management (`useState`), component lifecycle (`useEffect`), and performance optimization (`useCallback`) in a practical application.
 -   Crafted complete responsive user interfaces using semantic HTML and modular CSS for static projects. Implemented functional elements like search bars, game logic, buttons, and navigation to simulate real-world application behavior.
